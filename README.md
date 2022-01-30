@@ -1,1 +1,1 @@
-# testmoshu.github.io
+# https://nykverse.github.io/testmoshu

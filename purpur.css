@@ -33,7 +33,7 @@ nav .navbar{
 }
 .navbar .logo a{
   font-size: 30px;
-  color: #fff;
+  color: #EE533B;
   text-decoration: none;
   font-weight: 600;
 }
@@ -56,7 +56,7 @@ nav .navbar .links li a{
   height: 100%;
   text-decoration: none;
   white-space: nowrap;
-  color: #fff;
+  color: #EE533B;
   font-size: 15px;
   font-weight: 500;
 }
@@ -72,7 +72,7 @@ nav .navbar .links li .arrow{
   line-height: 70px;
   text-align: center;
   display: inline-block;
-  color: #fff;
+  color: ;
   transition: all 0.3s ease;
 }
 nav .navbar .links li .sub-menu{
@@ -95,7 +95,7 @@ nav .navbar .links li:hover .js-sub-menu{
   border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 .navbar .links li .sub-menu a{
-  color: #fff;
+  color: #EE533B;
   font-size: 15px;
   font-weight: 500;
 }
@@ -128,7 +128,7 @@ nav .navbar .links li:hover .js-sub-menu{
   line-height: 40px;
   text-align: center;
   font-size: 22px;
-  color: #fff;
+  color: #EE533B;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -225,12 +225,12 @@ nav .navbar .links li:hover .js-sub-menu{
   }
   .sidebar-logo .logo-name{
     font-size: 25px;
-    color: #fff;
+    color: #EE533B;
   }
     .sidebar-logo  i,
     .navbar .bx-menu{
       font-size: 25px;
-      color: #fff;
+      color: #EE533B;
     }
   nav .navbar .links{
     display: block;

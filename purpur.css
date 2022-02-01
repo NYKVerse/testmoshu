@@ -33,7 +33,7 @@ nav .navbar{
 }
 .navbar .logo a{
   font-size: 30px;
-  color: #fff;
+  color: #ee533b;
   text-decoration: none;
   font-weight: 600;
 }
@@ -72,7 +72,7 @@ nav .navbar .links li .arrow{
   line-height: 70px;
   text-align: center;
   display: inline-block;
-  color: ;
+  color: #fff;
   transition: all 0.3s ease;
 }
 nav .navbar .links li .sub-menu{

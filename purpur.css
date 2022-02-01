@@ -176,7 +176,6 @@ nav .navbar .links li:hover .js-sub-menu{
 }
 .navbar .nav-links .sidebar-logo{
   display: none;
-  color: #ee533b;
 }
 .navbar .bx-menu{
   display: none;
@@ -226,7 +225,7 @@ nav .navbar .links li:hover .js-sub-menu{
   }
   .sidebar-logo .logo-name{
     font-size: 25px;
-    color: #fff;
+    color: #ee533b;
   }
     .sidebar-logo  i,
     .navbar .bx-menu{

@@ -176,6 +176,7 @@ nav .navbar .links li:hover .js-sub-menu{
 }
 .navbar .nav-links .sidebar-logo{
   display: none;
+  color: #ee533b;
 }
 .navbar .bx-menu{
   display: none;
